@@ -31,7 +31,7 @@ To learn the  basic of Linux and his component.
 
 ## Key Takeaways
 
-- Today learning make me realised that i have been using the some linux command before today on my window computer such as cd, mkdir and ls
+- Today learning make me realised that i have been using some linux command before today on my window computer such as cd, mkdir and ls in the command prompt and unlike window linux does not have recycle bin, so once i deleted anything is gone forever, so no room for mistake.
 - 
 
 ---
